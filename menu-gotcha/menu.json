@@ -1,0 +1,34 @@
+{
+    "menu": {
+        "main-menu": [
+            {"name": "훈제오리볶음", 
+            "recommand-list": [
+
+            ]}
+        ],
+        "sub-menu": [
+            {"name": "훈제오리볶음", 
+            "recommand-list": [
+
+            ]}
+        ],
+        "soup-menu": [
+            {"name": "훈제오리볶음", 
+            "recommand-list": [
+
+            ]}
+        ],
+        "kimchi": [
+            {"name": "훈제오리볶음", 
+            "recommand-list": [
+
+            ]}
+        ],
+        "dessert": [
+            {"name": "훈제오리볶음", 
+            "recommand-list": [
+
+            ]}
+        ]
+    }
+}
